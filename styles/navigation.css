@@ -1,0 +1,66 @@
+.navigation {
+	height: 165px;
+	
+	/*background-color: #ebc;*/
+}
+
+.container {
+	width: 80%;
+
+}
+
+.top {
+	height: 110px;
+	/*background-color: #f7f7f7;*/
+}
+
+.top_links {
+	height: 34px;
+	background-color: #f7f7f7;
+}
+
+.top_hr {
+	margin: 0;
+	
+	height:3px;
+	background-color: #bbb;
+}
+
+.nav_bar {
+	height: 48px;
+	background-color: #f2f5f1;
+
+}
+
+.nav_bar ul {
+	padding-top: 20px;
+	width: 80%;
+	margin:0 auto;
+}
+
+.nav_bar li {
+	float: right;
+	margin: 0 10px;
+	
+}
+
+.nav_bar a {
+	text-decoration: none;
+	color: #959595;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
