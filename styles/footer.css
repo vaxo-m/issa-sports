@@ -1,0 +1,65 @@
+.footer-toolbar {
+	height: 40px;
+	background-color: #e8ede7;
+	border-top:2px solid #bbb;
+	border-bottom:4px solid #008d00;
+}
+
+.footer-toolbar ul {
+	padding-top: 13px;
+	
+}
+
+.footer-toolbar li {
+	float: right;
+	margin: 0 10px;
+}
+.footer-toolbar a {
+	text-decoration: none;
+	color: #004990;
+}
+
+.locker {
+	float: left;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: -8px;
+}
+
+.footer-body {
+	font-size: 85%;
+	height: 340px;
+	background-color: #474747;
+	color: #fff;
+}
+
+.lists {
+	padding-top: 35px;
+	width: 150px;
+	background-color: #333;
+	float: right;
+}
+
+.lists h3 {
+	padding-bottom: 20px;
+}
+
+.lists a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.phrases {
+	width: 640px;
+	height: 50px;
+	/*background-color: green;*/
+	color: #fff;
+	display: inline-block;
+	margin-top: 150px;
+	margin-right: -450px;
+
+}
+
+.phrases p {
+	margin-bottom: 7px;
+}

@@ -1,0 +1,29 @@
+.seo {
+	height: 230px;
+}
+
+.social {
+	height: 175px;
+	width: 370px;
+	float: right;
+	/*margin-top: 33px;*/
+	background-color: #aab;
+	margin-left: 40px;
+}
+
+.para {
+	margin-top: 33px;
+	margin-right: 20px;
+	color: #535353;
+}
+
+.para h2 {
+	margin-bottom: 20px;
+}
+
+
+
+
+
+
+
